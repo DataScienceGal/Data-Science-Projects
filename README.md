@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmartyPants4
+- 👋 Hi, I’m @DataScienceGal.
 - 👀 I’m interested in Data Science.  I have a M.S. in Biostatistics and have continued my education using DataCamp and Coursera.
 - 🌱 I’m currently learning as much as I can possibly learn.
 - 💞️ I’m looking for a Data Science position.
