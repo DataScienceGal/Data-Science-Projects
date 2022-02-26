@@ -4,7 +4,7 @@ I’m interested in a career in Data Science.  I have a M.S. in Biostatistics an
 I’m currently learning as much as I can possibly learn. I have taken several courses through DataCamp.  I’m looking for a Data Science or statistical position. I love being in the data. 💞️ 
 
 ### ABOUT THIS REPOSITORY
-This repository is a collection of my assignments from Coursera.  The course completed is the first in a specialization for Data Science in Python.  All assignments are completed in Python.  Enjoy!
+This repository is a collection from my assignments.  All assignments are completed in Python.  Enjoy!
 
 Note: The "R code" directory is based on a separate project.
 
