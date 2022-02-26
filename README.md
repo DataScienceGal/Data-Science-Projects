@@ -8,6 +8,9 @@ This repository is a collection from my assignments.  All assignments are comple
 
 Note: The "R code" directory is based on a separate project.
 
+### COLLECTION OF HELPFUL WEBSITES ON MACHINE LEARNING
+https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501
+
 <!---
 SmartyPants4/SmartyPants4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
