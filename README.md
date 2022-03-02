@@ -6,7 +6,7 @@ I’m currently learning as much as I can possibly learn. I have taken several c
 ### ABOUT THIS REPOSITORY
 This repository is a collection from my assignments.  All assignments are completed in Python.  Enjoy!
 
-Note: The "R code" directory is based on a separate project.
+Note: The "R code" directory is based on separate projects and coursework.
 
 ### COLLECTION OF HELPFUL WEBSITES ON MACHINE LEARNING
 https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501
